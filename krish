@@ -3,3 +3,4 @@ alb clb nlb
 asg 
 vpc 
 rds
+subnet rtb igb sg
