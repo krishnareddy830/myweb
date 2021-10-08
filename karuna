@@ -1,3 +1,8 @@
 he is new to linux
 aws rds ebs
+<<<<<<< HEAD
 sdf xcv nmb
+=======
+rds efs ebs
+>>>>>>> refs/remotes/origin/master
+aws hds cvb
