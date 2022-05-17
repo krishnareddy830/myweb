@@ -13,17 +13,8 @@
 		<sonar.host.url>http://15.206.173.92:9000/</sonar.host.url>
 
 	</properties>
-	<dependencies>
-
-		
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>3.8.6</version>
-			<scope>test</scope>
-		</dependency>
-
-	<dependencies>
+	
+        <dependencies>
 ...
 </dependencies>
 <build>
@@ -38,6 +29,14 @@
         </plugin>
     </plugins>
 </build>
+		
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.6</version>
+			<scope>test</scope>
+		</dependency>
+
 	
 	<distributionManagement>
 		 <snapshotRepository>
