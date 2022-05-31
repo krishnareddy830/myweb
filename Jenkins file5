@@ -1,0 +1,11 @@
+pipeline {
+agent any
+tools{
+Maven 'mvn3.8.5'
+}
+stages{
+stage ('checkout){
+steps{
+}
+}
+}
